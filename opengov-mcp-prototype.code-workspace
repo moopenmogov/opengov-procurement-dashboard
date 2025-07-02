@@ -1,0 +1,18 @@
+{
+    "folders": [
+        {
+            "name": "OpenGov MCP Prototype",
+            "path": "."
+        }
+    ],
+    "settings": {
+        "files.exclude": {
+            "node_modules": false
+        }
+    },
+    "extensions": {
+        "recommendations": [
+            "ms-vscode.vscode-node-debug2"
+        ]
+    }
+} 
